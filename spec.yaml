@@ -1,0 +1,5 @@
+schemaVersion: "1"
+kind: mixin
+name: claude-sandbox-kit
+displayName: Claude Sandbox Kit
+description: Injects CLAUDE.md, skills, and settings into any Claude sandbox
